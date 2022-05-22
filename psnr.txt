@@ -1,0 +1,24 @@
+Rolling_cal.png
+quality:  41
+psnr:  28.14766258164908
+58 packets
+
+Andy_Video.png
+quality:  6
+psnr:  29.87467568959118
+54 packets
+
+dog.png
+quality:  2
+psnr:  30.609138065412957
+58 packets
+
+simple_shape.png
+quality:  12
+psnr:  32.3222270082388
+56 packets
+
+competition_img.png
+quality:  6
+psnr:  30.91987942429709
+58 packets
